@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+ratings.csv
+credits.csv
+config.py
 
 # C extensions
 *.so
